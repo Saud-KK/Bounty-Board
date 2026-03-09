@@ -3,3 +3,4 @@ flask
 Pillow
 aiohttp
 motor
+pymongo[srv]
